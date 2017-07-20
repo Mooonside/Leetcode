@@ -21,7 +21,6 @@ public:
     }
 
     void buildTree(int node, int begin, int end){
-
         if(begin == end){
             // leaf node
             segtree[node] = array[begin];
@@ -90,38 +89,37 @@ public:
 
 };
 
+// int main(){
+// /**
+//  * Your NumArray object will be instantiated and called as such:
+//  * NumArray obj = new NumArray(nums);
+//  * obj.update(i,val);
+//  * int param_2 = obj.sumRange(i,j);
+//  */
+//     vector<int> nums;
+//     nums.push_back(-28);
+//     nums.push_back(-39);
+//     nums.push_back(53);
+//     nums.push_back(65);
+//     nums.push_back(11);
+//     nums.push_back(-56);
+//     nums.push_back(-65);
+//     nums.push_back(-39);
+//     nums.push_back(-43);
+//     nums.push_back(97);
+//     NumArray *obj = new NumArray(nums);
+//     cout<<obj->sumRange(5,6)<<endl;
+//     obj->update(9,27);
+//     cout<<obj->sumRange(2,3)<<endl;
+//     cout<<obj->sumRange(6,7)<<endl;
+//     obj->update(1,-82);
+//     obj->update(3,-72);
+//     cout<<obj->sumRange(3,7)<<endl;
+//     cout<<obj->sumRange(1,8)<<endl;
 
-int main(){
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray obj = new NumArray(nums);
- * obj.update(i,val);
- * int param_2 = obj.sumRange(i,j);
- */
-    vector<int> nums;
-    nums.push_back(-28);
-    nums.push_back(-39);
-    nums.push_back(53);
-    nums.push_back(65);
-    nums.push_back(11);
-    nums.push_back(-56);
-    nums.push_back(-65);
-    nums.push_back(-39);
-    nums.push_back(-43);
-    nums.push_back(97);
-    NumArray *obj = new NumArray(nums);
-    cout<<obj->sumRange(5,6)<<endl;
-    obj->update(9,27);
-    cout<<obj->sumRange(2,3)<<endl;
-    cout<<obj->sumRange(6,7)<<endl;
-    obj->update(1,-82);
-    obj->update(3,-72);
-    cout<<obj->sumRange(3,7)<<endl;
-    cout<<obj->sumRange(1,8)<<endl;
+//     //obj->show();
+//     obj->update(5,13);
+//     obj->update(4,-67);
 
-    //obj->show();
-    obj->update(5,13);
-    obj->update(4,-67);
-
-}
+// }
 
