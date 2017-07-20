@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/expression_cal.dir/main.cpp.o  -o expression_cal 

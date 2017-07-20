@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Range_Sum_Query.dir/main.cpp.o  -o Range_Sum_Query 

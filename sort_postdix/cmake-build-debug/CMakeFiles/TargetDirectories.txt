@@ -1,0 +1,3 @@
+/home/yifeng/LeetCodes/sort_postdix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yifeng/LeetCodes/sort_postdix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yifeng/LeetCodes/sort_postdix/cmake-build-debug/CMakeFiles/sort_postdix.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/highp_minus.dir/main.cpp.o  -o highp_minus 

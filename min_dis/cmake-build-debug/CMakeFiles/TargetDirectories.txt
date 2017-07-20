@@ -1,0 +1,3 @@
+/home/yifeng/LeetCodes/min_dis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yifeng/LeetCodes/min_dis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yifeng/LeetCodes/min_dis/cmake-build-debug/CMakeFiles/min_dis.dir

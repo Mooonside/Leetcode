@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/boring1.dir/main.cpp.o  -o boring1 

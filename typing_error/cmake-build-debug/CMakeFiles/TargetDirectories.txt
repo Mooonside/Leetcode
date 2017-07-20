@@ -1,0 +1,3 @@
+/home/yifeng/LeetCodes/typing_error/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yifeng/LeetCodes/typing_error/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yifeng/LeetCodes/typing_error/cmake-build-debug/CMakeFiles/typing_error.dir

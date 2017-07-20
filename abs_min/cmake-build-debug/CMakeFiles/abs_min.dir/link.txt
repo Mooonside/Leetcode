@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/abs_min.dir/main.cpp.o  -o abs_min 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/pre_post.dir/main.cpp.o  -o pre_post 

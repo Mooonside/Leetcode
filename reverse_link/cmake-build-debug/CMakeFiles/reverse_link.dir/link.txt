@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/reverse_link.dir/main.cpp.o  -o reverse_link 

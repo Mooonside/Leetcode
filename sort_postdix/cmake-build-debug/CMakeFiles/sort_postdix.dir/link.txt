@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/sort_postdix.dir/main.cpp.o  -o sort_postdix 

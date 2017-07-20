@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/unsorted_array.dir/main.cpp.o  -o unsorted_array 

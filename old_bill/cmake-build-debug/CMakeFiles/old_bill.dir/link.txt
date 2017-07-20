@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/old_bill.dir/main.cpp.o  -o old_bill 

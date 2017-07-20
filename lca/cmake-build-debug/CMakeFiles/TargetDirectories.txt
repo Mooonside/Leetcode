@@ -1,0 +1,3 @@
+/home/yifeng/LeetCodes/lca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yifeng/LeetCodes/lca/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yifeng/LeetCodes/lca/cmake-build-debug/CMakeFiles/lca.dir

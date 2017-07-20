@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/ackerman.dir/main.cpp.o  -o ackerman 

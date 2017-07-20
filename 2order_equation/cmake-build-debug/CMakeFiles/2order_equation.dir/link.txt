@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/2order_equation.dir/main.cpp.o  -o 2order_equation 
